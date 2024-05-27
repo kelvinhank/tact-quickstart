@@ -1,0 +1,16 @@
+{
+    "projects": [
+      {
+        "name": "sample",
+        "path": "./sources/contract.tact",
+        "output": "./sources/output"
+      },
+      {
+        "name": "counter",
+        "path": "./sources/counter.tact",
+        "output": "./sources/output"
+      }
+    ]
+  }
+  
+  
